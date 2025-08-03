@@ -4,7 +4,8 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ## 🌟 Overview
 
-This portfolio website presents my professional journey, technical skills, and notable projects in web development. Built with clean HTML5, CSS3, and responsive design principles, it demonstrates my expertise in front-end development and user experience design.
+This portfolio website presents my professional journey, technical skills, and notable projects in web development. Built with clean HTML5, CSS3, and responsive design principles, it demonstrates my expertise in front-end development and user experience design. here is the link to the live site after hosting it on netlify
+https://plp-derickharon-portfolio.netlify.app/
 
 ## 🚀 Features
 
